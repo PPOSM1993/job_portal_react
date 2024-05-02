@@ -1,0 +1,45 @@
+          <div className='bg-white rounded-xl shadow-md relative'>
+            <div className="p-4">
+              <div className="mb-6">
+                <div className='text-gray-600 my-2'>Full Time</div>
+                <h3 className="text-xl font-bold">Senior React Developer</h3>
+              </div>
+
+              <div className="mb-5">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam dicta 
+                ex asperiores, laborum neque cumque iusto maxime consequatur tempore 
+                quam impedit itaque vero aut placeat obcaecati veniam omnis eligendi. Illo.
+              </div>
+            </div>
+          </div>
+
+          <div className='bg-white rounded-xl shadow-md relative'>
+            <div className="p-4">
+              <div className="mb-6">
+                <div className='text-gray-600 my-2'>Remote</div>
+                <h3 className="text-xl font-bold">Front-End Engineer (React)</h3>
+              </div>
+
+              <div className="mb-5">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam dicta 
+                ex asperiores, laborum neque cumque iusto maxime consequatur tempore 
+                quam impedit itaque vero aut placeat obcaecati veniam omnis eligendi. Illo.
+              </div>
+            </div>
+          </div>
+
+          <div className='bg-white rounded-xl shadow-md relative'>
+            <div className="p-4">
+              <div className="mb-6">
+                <div className='text-gray-600 my-2'>Full Time</div>
+                <h3 className="text-xl font-bold">Senior React Developer</h3>
+              </div>
+
+              <div className="mb-5">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam dicta 
+                ex asperiores, laborum neque cumque iusto maxime consequatur tempore 
+                quam impedit itaque vero aut placeat obcaecati veniam omnis eligendi. Illo.
+              </div>
+
+            </div>
+          </div>

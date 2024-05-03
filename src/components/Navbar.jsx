@@ -2,6 +2,7 @@ import React from 'react'
 import { NavLink } from 'react-router-dom';
 import logo from '../assets/images/logo.png';
 
+
 const Navbar = () => {
 
   //Función que activa las clases de tailwind para estilizar los botones del header.
